@@ -1,4 +1,4 @@
-## Hello World :sparkling_heart: 👋🏽 
+## Hello World :sparkling_heart: 👋🏽 ![image title](https://rushter.com/counter.svg)
 
 ### I :heart: GitHub :octocat:
 
