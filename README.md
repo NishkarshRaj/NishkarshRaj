@@ -43,6 +43,6 @@
 ## Let's Connect :people_holding_hands:
 
 <p align='center'>
-<a href="https://twitter.com/NishkarshRaj1"><img height="30" src="img/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nishkarshraj/"><img height="30" src="img/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/NishkarshRaj1"><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nishkarshraj/"><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/linkedin.png?raw=true"></a>
 </p>
