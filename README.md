@@ -2,7 +2,13 @@
 
 ### I :heart: GitHub :octocat:
 
-![](https://github-readme-stats.vercel.app/api?username=NishkarshRaj&show_icons=true&line_height=30)
+#### Public Profile stats
+
+![](https://github-readme-stats.vercel.app/api?username=NishkarshRaj&show_icons=true&line_height=30&theme=dark)
+
+#### Overall profile stats
+
+![](https://github-readme-stats.vercel.app/api?username=nishkarshraj&count_private=true&theme=merko)
 
 ### :open_book: :books: Area of Expertise :closed_book: :green_book:
 
