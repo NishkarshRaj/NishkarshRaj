@@ -1,5 +1,7 @@
 ## Hello World :sparkling_heart: 👋🏽 
 
+![cover](https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/cover.png)
+
 I am an enthusiastic person with hands-on experience in software development and frameworks. Well-versed in software development methodologies, including DevOps and Agile.
 
 ### :open_book: :books: Skills :closed_book: :green_book:
