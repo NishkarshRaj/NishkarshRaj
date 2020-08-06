@@ -5,56 +5,56 @@
 #### Programming
 
 <p align='center'>
-<code><img height="30" src="https://www.github.com/NishkarshRaj/NishkarshRaj/img/c.png"></code>
-<code><img height="30" src="https://www.github.com/NishkarshRaj/NishkarshRaj/img/cpp.png"></code>
-<code><img height="30" src="https://www.github.com/NishkarshRaj/NishkarshRaj/img/python.jpg"></code>
-<code><img height="30" src="https://www.github.com/NishkarshRaj/NishkarshRaj/img/java.png"></code>
-<code><img height="30" src="https://www.github.com/NishkarshRaj/NishkarshRaj/img/golang.png"></code>
-<code><img height="30" src="https://www.github.com/NishkarshRaj/NishkarshRaj/img/shell.jpg"></code>
+<code><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/c.png"></code>
+<code><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/cpp.png"></code>
+<code><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/python.jpg"></code>
+<code><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/java.png"></code>
+<code><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/golang.png"></code>
+<code><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/shell.jpg"></code>
 </p>
 
 #### DevOps
 
 <p align='center'>
-<code><img height="30" src="https://www.github.com/NishkarshRaj/NishkarshRaj/img/github.png"></code>
-  <code><img height="30" src="https://www.github.com/NishkarshRaj/NishkarshRaj/img/maven.jpg"></code>
-  <code><img height="30" src="https://www.github.com/NishkarshRaj/NishkarshRaj/img/docker.png"></code>
-  <code><img height="30" src="https://www.github.com/NishkarshRaj/NishkarshRaj/img/kubernetes.png"></code>
-  <code><img height="30" src="https://www.github.com/NishkarshRaj/NishkarshRaj/img/datadog.png"></code>
-  <code><img height="30" src="https://www.github.com/NishkarshRaj/NishkarshRaj/img/selenium.png"></code>
+<code><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/github.png"></code>
+  <code><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/maven.jpg"></code>
+  <code><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/docker.png"></code>
+  <code><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/kubernetes.png"></code>
+  <code><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/datadog.png"></code>
+  <code><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/selenium.png"></code>
 </p>
 
 #### Continuous Integration and Continuous Delivery
 
 <p align='center'>
-<code><img height="30" src="https://www.github.com/NishkarshRaj/NishkarshRaj/img/actions.png"></code>
-  <code><img height="30" src="https://www.github.com/NishkarshRaj/NishkarshRaj/img/gitlab.png"></code>
-  <code><img height="30" src="https://www.github.com/NishkarshRaj/NishkarshRaj/img/jenkins.jpg"></code>
-  <code><img height="30" src="https://www.github.com/NishkarshRaj/NishkarshRaj/img/sonarqube.png"></code>
-  <code><img height="30" src="https://www.github.com/NishkarshRaj/NishkarshRaj/img/nexus.png"></code>
+<code><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/actions.png"></code>
+  <code><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/gitlab.png"></code>
+  <code><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/jenkins.jpg"></code>
+  <code><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/sonarqube.png"></code>
+  <code><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/nexus.png"></code>
 </p>
 
 #### Cloud Computing & IaaS
 
 <p align='center'>
-  <code><img height="30" src="https://www.github.com/NishkarshRaj/NishkarshRaj/img/aws.jpg"></code>
-  <code><img height="30" src="https://www.github.com/NishkarshRaj/NishkarshRaj/img/gcp.png"></code>
-  <code><img height="30" src="https://www.github.com/NishkarshRaj/NishkarshRaj/img/packer.png"></code>
-  <code><img height="30" src="https://www.github.com/NishkarshRaj/NishkarshRaj/img/ansible.png"></code>
-  <code><img height="30" src="https://www.github.com/NishkarshRaj/NishkarshRaj/img/terraform.png"></code>
-  <code><img height="30" src="https://www.github.com/NishkarshRaj/NishkarshRaj/img/vagrant.png"></code>
+  <code><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/aws.jpg"></code>
+  <code><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/gcp.png"></code>
+  <code><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/packer.png"></code>
+  <code><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/ansible.png"></code>
+  <code><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/terraform.png"></code>
+  <code><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/vagrant.png"></code>
 </p>
 
 #### Web Development
 
 <p align='center'>
-  <code><img height="30" src="https://www.github.com/NishkarshRaj/NishkarshRaj/img/html.png"></code>
-  <code><img height="30" src="https://www.github.com/NishkarshRaj/NishkarshRaj/img/css.jpg"></code>
-  <code><img height="30" src="https://www.github.com/NishkarshRaj/NishkarshRaj/img/javascript.png"></code>
-  <code><img height="30" src="https://www.github.com/NishkarshRaj/NishkarshRaj/img/nodejs.png"></code>
-  <code><img height="30" src="https://www.github.com/NishkarshRaj/NishkarshRaj/img/mongo.png"></code>
-  <code><img height="30" src="https://www.github.com/NishkarshRaj/NishkarshRaj/img/expressjs.png"></code>
-  <code><img height="30" src="https://www.github.com/NishkarshRaj/NishkarshRaj/img/react.png"></code>
+  <code><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/html.png"></code>
+  <code><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/css.jpg"></code>
+  <code><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/javascript.png"></code>
+  <code><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/nodejs.png"></code>
+  <code><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/mongo.png"></code>
+  <code><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/expressjs.png"></code>
+  <code><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/react.png"></code>
 </p>
 
 ### I :heart: GitHub :octocat:
