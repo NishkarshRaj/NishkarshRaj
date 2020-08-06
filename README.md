@@ -1,19 +1,47 @@
 ## Hello World :sparkling_heart: 👋🏽 
 
-### :open_book: :books: Area of Expertise :closed_book: :green_book:
+### :open_book: :books: Skills :closed_book: :green_book:
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
+#### Programming
+
+<p align='center'>
+<code><img height="30" src="img/c.png"></code>
+<code><img height="30" src="img/cpp.png"></code>
+<code><img height="30" src="img/python.png"></code>
+<code><img height="30" src="img/java.png"></code>
+<code><img height="30" src="img/go.png"></code>
+<code><img height="30" src="img/shell.png"></code>
+</p>
+
+#### DevOps
+
+<p align='center'>
+<code><img height="30" src=""></code>
+</p>
+
+#### Continuous Integration and Continuous Delivery
+
+<p align='center'>
+<code><img height="30" src=""></code>
+</p>
+
+#### Cloud Computing & IaaS
+
+<p align='center'>
+<code><img height="30" src=""></code>
+</p>
+
+#### Web Development
+
+<p align='center'>
+<code><img height="30" src=""></code>
+</p>
+
+#### Operating System
+
+<p align='center'>
+<code><img height="30" src=""></code>
+</p>
 
 ### Work Experience :computer_mouse: :desktop_computer: :keyboard:
 
