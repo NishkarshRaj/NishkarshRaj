@@ -95,6 +95,7 @@ I am an enthusiastic person with hands-on experience in software development and
 <a href="https://www.linkedin.com/in/nishkarshraj/"><img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@noicecurse"><img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/medium.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://iq.opengenus.org/author/nishkarsh/"><img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/opengenus.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://statusneo.com/author/napster-nish/"><img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/statusneo.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/NishkarshRaj1"><img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://nishkarshraj.github.io"><img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/website.png?raw=true"></a>&nbsp;&nbsp;
 </p>
