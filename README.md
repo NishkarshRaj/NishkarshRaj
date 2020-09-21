@@ -104,5 +104,4 @@ I am an enthusiastic person with hands-on experience in software development and
 </a>
 </p>
   
-  [![Nishkarsh Raj's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/nishkarshraj)
     
