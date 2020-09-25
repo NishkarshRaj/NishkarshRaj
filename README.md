@@ -98,7 +98,7 @@ I am an enthusiastic person with hands-on experience in software development and
   <a href="https://paypal.me/nishkarshraj"><img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/paypal.png?raw=true"</a>&nbsp;&nbsp;
 <a href="https://statusneo.com/author/napster-nish/"><img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/statusneo.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/NishkarshRaj1"><img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://nishkarshraj.github.io"><img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/website.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://nishkarshraj.github.io/nish"><img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/website.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://dev.to/nishkarshraj">
   <img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Nishkarsh Raj's DEV Profile" height="30" width="30">
 </a>
