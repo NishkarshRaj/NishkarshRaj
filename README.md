@@ -1,8 +1,6 @@
 ## Hello World :sparkling_heart: 👋🏽 
 
-![cover](https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/cover.png)
-
-I am an enthusiastic person with hands-on experience in software development and frameworks. Well-versed in software development methodologies, including DevOps and Agile.
+![cover](https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/quote.gif)
 
 ### :open_book: :books: Skills :closed_book: :green_book:
 
@@ -80,7 +78,7 @@ I am an enthusiastic person with hands-on experience in software development and
 
 | Position | Organization | Timeline |
 | :- | :- | :- |
-| Developer Evangelist | [@statusneo](https://statusneo.com) | June 2020 - July 2020 |
+| Developer Evangelist | [@statusneo](https://statusneo.com) | June 2020 - October 2020 |
 | DevOps Intern | [@xebia](https://xebia.com/) | April 2020 - June 2020 |
 | Mentor for RGSoC 2020 | [@OpenGenus](github.com/OpenGenus) | Feb 2020 - June 2020 |
 | Software Developer Intern | [@OpenGenus](github.com/OpenGenus) | July 2019 - Sept 2019 |
