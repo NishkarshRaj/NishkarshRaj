@@ -1,6 +1,8 @@
 ## Hello World :sparkling_heart: 👋🏽 
 
-![cover](https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/quote.gif)
+<p align='center'>
+<img height="400" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/quote.gif">
+</p>
 
 ### :open_book: :books: Skills :closed_book: :green_book:
 
