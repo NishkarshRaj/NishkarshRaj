@@ -1,7 +1,7 @@
 ## Hello World :sparkling_heart: 👋🏽 
 
 <p align='center'>
-<img height="400" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/quote.gif">
+<img height="400" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/keyboard.jpg">
 </p>
 
 ### :open_book: :books: Skills :closed_book: :green_book:
@@ -89,7 +89,7 @@
 ## Let's Connect :people_holding_hands:
 
 <p align='center'>
-  <a href="mailto:nishkarshraj000@gmail.com"><img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/gmail.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="mailto:nishkarshraj000@gmail.com"><img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/gmail.jpg?raw=true"></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/nishkarshraj_/"><img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/nishkarsh2"><img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/facebook.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/nishkarshraj/"><img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;
@@ -101,7 +101,7 @@
 <a href="https://www.youtube.com/channel/UCbDBnnrPZVqybiDQB9kP1cA"><img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/yt.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://nishkarshraj.github.io"><img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/website.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://dev.to/nishkarshraj">
-  <img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Nishkarsh Raj's DEV Profile" height="30" width="30">
+  <img height="60" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Nishkarsh Raj's DEV Profile" height="30" width="30">
 </a>
 </p>
   
