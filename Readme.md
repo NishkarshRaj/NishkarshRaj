@@ -6,6 +6,8 @@ Aspiring software developer grateful for everything :pray:
 
 ![](https://github-readme-stats.vercel.app/api?username=nishkarshraj&count_private=true&theme=merko)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishkarshraj&" /></p>
+
 ## Let's Connect :people_holding_hands:
 
 <p align='center'>
