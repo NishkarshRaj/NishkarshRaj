@@ -1,9 +1,9 @@
-## Hello World :sparkling_heart: 👋🏽 
+## 👋 Hello / Namastey / Konnichiwa / Bonjour / Que Pasa / Hola / Aloha :sparkling_heart: 👋
 
-Aspiring software developer grateful for everything :pray:
+Hi, I am Nishkarsh. I am an aspiring software developer grateful for everything :pray:
 
 ### I :heart: GitHub :octocat:
 
-![](https://github-readme-stats.vercel.app/api?username=nishkarshraj&count_private=true&theme=merko)
+<p align=center><img align="center" src="https://github-readme-stats.vercel.app/api?username=nishkarshraj&count_private=true&theme=merko" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishkarshraj&" /></p>
+<p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishkarshraj&" /></p>
