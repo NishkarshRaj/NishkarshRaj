@@ -1,4 +1,4 @@
-## :wave: Hello / Namastey / Konnichiwa / Bonjour / Que Pasa / Hola / Aloha :sparkling_heart: :wave:
+## :wave: Hello / Namaste / Konnichiwa / Bonjour / Que Pasa / Hola / Aloha :sparkling_heart: :wave:
 
 <p align=center><img align="center" height=400 width=900 src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/covert.png" /></p>
 
@@ -10,6 +10,6 @@ I aim to share and learn about tech and open source with all the amazing develop
 
 <h2 align=center> I :heart: GitHub :octocat: </p>
 
-<p align=center><img align="center" src="https://github-readme-stats.vercel.app/api?username=nishkarshraj&count_private=true&theme=merko" /></p>
+<p align=center><img align="center" src="https://github-readme-stats.vercel.app/api?username=nishkarshraj&count_private=true&theme=dark" /></p>
 
-<p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishkarshraj&" /></p>
+<p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishkarshraj&theme=dark" /></p>
