@@ -1,15 +1,16 @@
-name: Skyline
+name: Metrics
 on:
-  push:
-    branches: [ master ]
-
-  workflow_dispatch:
+  schedule: [{cron: "0 0 * * sun"}] # Runs weekly every Sunday 00:00
 jobs:
-  skyline:
+  github-metrics:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v2
+      # See action.yml for all options
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.GH_TOKEN }}
+
       - uses: lowlighter/metrics@latest
         with:
           plugin_skyline: yes
