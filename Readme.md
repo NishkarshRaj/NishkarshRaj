@@ -10,6 +10,6 @@ I aim to share and learn about tech and open source with all the amazing develop
 
 <h2 align=center> I :heart: GitHub :octocat: </p>
 
-<p><img align="left" width=460 src="https://github-readme-stats.vercel.app/api?username=nishkarshraj&count_private=true&theme=dark" /> <img align="right" width=460 src="https://github-readme-streak-stats.herokuapp.com/?user=nishkarshraj&theme=dark" /></p>
+<p><img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=nishkarshraj&count_private=true&theme=dark" /> <img align="right" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=nishkarshraj&theme=dark" /></p>
 
 <p align=center><img align="center" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/github-metrics.svg" /></p>
