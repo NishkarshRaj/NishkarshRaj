@@ -2,6 +2,8 @@
 
 <p align=center><img align="center" height=400 width=900 src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/covert.png" /></p>
 
+<a href="https://twitter.com/NishkarshRaj1" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/NishkarshRaj/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+
 Hi, I am Nishkarsh. I am an aspiring software developer grateful for everything :pray:
 
 I am the Principal DevOps Evangelist and Consultant for StatusNeo Inc. and an avid GitHubber.
