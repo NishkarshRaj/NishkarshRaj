@@ -1,6 +1,7 @@
 name: Metrics
 on:
   schedule: [{cron: "0 0 * * sun"}] # Runs weekly every Sunday 00:00
+  push:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
