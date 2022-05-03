@@ -17,15 +17,6 @@
 
 ---
 
-
-<h3 align=center> The Next Chapter [2k22] </h3>
-
-- I share the generic tendency to improve one-self - I have set up my 2k22 [OKRs](https://nishkarshraj.github.io/okrs/) publicly to make myself more accountable
-- I intend to start knowledge share groups and forums. 
-- To give back to the community, I plan to start sponsoring young talent soon.
-
----
-
 <h3 align=center> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
