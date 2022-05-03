@@ -1,11 +1,11 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-<h3 align=center>:wave: Greetings Fellow Developers! Myself Nishkarsh :bowtie:</h3>
+<h3 align=center>:wave: Greetings Fellow GitHubbers! Myself Nishkarsh :bowtie:</h3>
 
-- :office: I currently work as the Principal Evangelist and Consultant for [StatusNeo](www.statusneo.com) 
-- :star2: I am a proud member of [GitHub Stars Program](https://stars.github.com/)
-- :blue_book: I am passionate about Open Source and DevOps, and I plan to explore cloud-native technologies and AIOps.
-- :video_game: My hobbies include killing time with Gaming, Netflix, etc. I also share a passion for traveling around the world.
+- :office: I work as the Principal Evangelist at [StatusNeo](www.statusneo.com) 
+- :star2: Grateful to be part of the [GitHub Stars Initiative](https://stars.github.com/)
+- :blue_book: I am passionate about DevRel, Open Source and DevOps, Cloud-Native technologies and AIOps.
+- :video_game: My hobbies include Gaming and watching TV series. I also share a passion for traveling around the world.
 
 ---
 
