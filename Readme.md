@@ -32,6 +32,11 @@
 <h3 align=center> My GitHubbing Journey :octocat: </h3>
 
 <details> 
+	<summary>GitHub Contribution Stats - Yearly</summary>
+	<p align=center><img align="center" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/github-contrib-stats.svg" /></p>
+</details>
+
+<details> 
 	<summary>SkyLine 20022</summary>
 	<p align=center><img align="center" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/github-metrics.svg" /></p>
 </details>

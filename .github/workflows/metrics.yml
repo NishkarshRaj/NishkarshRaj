@@ -1,6 +1,6 @@
 name: GitHub Metrics
 on:
-  schedule: [{cron: "0 0 * * sun"}]
+  schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
 jobs:
   # https://github.com/lowlighter/metrics/blob/master/source/plugins/skyline/README.md
@@ -19,7 +19,7 @@ jobs:
       - name: Full history calendar
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.calendar.full.svg
+          filename: github-contrib-stats.svg
           token: ${{ secrets.GH_NOICE }}
           base: ""
           plugin_calendar: yes
