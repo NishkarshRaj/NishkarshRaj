@@ -1,0 +1,27 @@
+name: GitHub Metrics
+on:
+  schedule: [{cron: "0 0 * * sun"}]
+  workflow_dispatch:
+jobs:
+  # https://github.com/lowlighter/metrics/blob/master/source/plugins/skyline/README.md
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        name: Skyline
+        with:
+          plugin_skyline: yes
+          plugin_skyline_year: 2022    
+          plugin_skyline_frames: 60       
+          plugin_skyline_quality: 1
+          plugin_skyline_compatibility: yes
+          token: ${{ secrets.GH_NOICE }}
+      - name: Full history calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.calendar.full.svg
+          token: ${{ secrets.GH_NOICE }}
+          base: ""
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
+
