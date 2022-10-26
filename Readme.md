@@ -26,8 +26,6 @@
 </td>
 </table>
 
-<h4 align=center> My GitHubbing Journey </h4>
-
 <details> 
 	<summary>Profile Stats</summary>
 	<p align=center><img align="center" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/github-user-stats.svg" /></p>
@@ -45,7 +43,7 @@
 
 ---
 
-<h3 align=center> 🤝🏻 Let's Connect </h3>
+<h3 align=center> Let's Connect </h3>
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/NishkarshRaj1" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
