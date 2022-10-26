@@ -2,10 +2,13 @@
 
 <h3 align=center>:wave: Greetings Fellow GitHubbers! Myself Nishkarsh :bowtie:</h3>
 
-- :office: I work as the Principal Evangelist at [StatusNeo](www.statusneo.com) 
-- :star2: Grateful to be part of the [GitHub Stars Initiative](https://stars.github.com/)
-- :blue_book: I am passionate about DevRel, Open Source and DevOps, Cloud-Native technologies and AIOps.
-- :video_game: My hobbies include Gaming and watching TV series. I also share a passion for traveling around the world.
+- :office: I work at [StatusNeo](www.statusneo.com) as the Principal Evangelist & Consultant in the CloudNative D3 Space - Digital, Data, and DevSecOps.
+
+- :star2: [GitHub Star](https://stars.github.com/) 2021 & 2022.
+
+- :blue_book: I am passionate about DevRel, DevEx, Open-Source, and Community Building.
+
+- :video_game: I am an avid e-sports and mixed martial arts fan.
 
 ---
 
@@ -17,7 +20,7 @@
 
 ---
 
-<h3 align=center> 🤝🏻 Connect with Me </h3>
+<h3 align=center> 🤝🏻 Let's Connect </h3>
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/NishkarshRaj1" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
@@ -25,3 +28,5 @@
 &nbsp; <a href="https://www.linkedin.com/in/nishkarshraj" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:nishkarshraj000@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
+
+<p align=center><img align="center" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/github-metrics.svg" /></p>
