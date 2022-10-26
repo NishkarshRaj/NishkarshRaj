@@ -14,15 +14,15 @@
 
 <h3 align=center> I :heart: GitHub :octocat: </h3>
 
-<p>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=nishkarshraj&count_private=true&theme=dark" /> 
-
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nishkarshraj&theme=dark" />
-
-</p>
-
-:octocat: GitHubbing since 2018
+<table>
+  <tr>
+    <td align="center">
+<img alt="" width="400" src="https://github-readme-stats.vercel.app/api?username=nishkarshraj&count_private=true&theme=dark" alt=""></img>
+</td>
+<td align="center">
+<img alt="" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=nishkarshraj&theme=dark"" alt=""></img>
+</td>
+</table>
 
 <h4 align=center> My GitHubbing Journey </h4>
 
