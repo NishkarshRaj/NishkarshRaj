@@ -16,15 +16,15 @@
 
 <p>
 
-<img align="left" width=350 src="https://github-readme-stats.vercel.app/api?username=nishkarshraj&count_private=true&theme=dark" /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=nishkarshraj&count_private=true&theme=dark" /> 
 
-<img align="right" width=350 src="https://github-readme-streak-stats.herokuapp.com/?user=nishkarshraj&theme=dark" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nishkarshraj&theme=dark" />
 
 </p>
 
----
+:octocat: GitHubbing since 2018
 
-<h4 align=center> My GitHubbing Journey :octocat: </h4>
+<h4 align=center> My GitHubbing Journey </h4>
 
 <details> 
 	<summary>Profile Stats</summary>
@@ -37,7 +37,7 @@
 </details>
 
 <details> 
-	<summary>SkyLine 20022</summary>
+	<summary>SkyLine 2022</summary>
 	<p align=center><img align="center" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/github-metrics.svg" /></p>
 </details>
 

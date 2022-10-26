@@ -16,7 +16,7 @@ jobs:
           plugin_skyline_quality: 1
           plugin_skyline_compatibility: yes
           token: ${{ secrets.GH_NOICE }}
-      - name: Full history calendar
+      - name: Contribution Graph
         uses: lowlighter/metrics@latest
         with:
           filename: github-contrib-stats.svg
@@ -24,7 +24,7 @@ jobs:
           base: ""
           plugin_calendar: yes
           plugin_calendar_limit: 0
-      - name: Organization introduction
+      - name: Profile Stats
         uses: lowlighter/metrics@latest
         with:
           filename: github-user-stats.svg
