@@ -3,7 +3,7 @@ on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
 jobs:
-  # https://github.com/lowlighter/metrics/blob/master/source/plugins/skyline/README.md
+  # Credits: https://github.com/lowlighter/metrics
   github-metrics:
     runs-on: ubuntu-latest
     steps:
@@ -24,4 +24,13 @@ jobs:
           base: ""
           plugin_calendar: yes
           plugin_calendar_limit: 0
+      - name: Organization introduction
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-user-stats.svg
+          token: ${{ secrets.GH_NOICE }}
+          user: nishkarshraj
+          base: header
+          plugin_introduction: yes
+
 
