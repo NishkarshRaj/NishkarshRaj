@@ -1,6 +1,8 @@
+<img src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/assets/github-profile-cover.png">
+
 <img align="right" alt="GitHub Gif" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-<h3 align=center>:wave: Hey Fellow GitHubber</h3>
+<h3>:wave: Hey Fellow GitHubber</h3>
 
 - :office: I work at [StatusNeo](www.statusneo.com) as the Principal Evangelist & Consultant in the CloudNative D3 Space - Digital, Data, and DevSecOps.
 
