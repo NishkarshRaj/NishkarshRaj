@@ -6,9 +6,9 @@
 
 - :office: I work at [StatusNeo](www.statusneo.com) as the Principal Evangelist & Consultant in the CloudNative D3 Space - Digital, Data, and DevSecOps.
 
-- :star2: [GitHub Star](https://stars.github.com/) 2021 & 2022.
+- :star2: [GitHub Star](https://stars.github.com/) 2021 - 2023.
 
-- :blue_book: I am passionate about DevRel, DevEx, Open-Source, and Community Building.
+- :blue_book: I am passionate about DevOps, DevRel, DevEx, Open-Source, and Community Building.
 
 - :video_game: I am an avid e-sports and mixed martial arts fan.
 
