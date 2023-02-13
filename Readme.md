@@ -51,3 +51,17 @@
 &nbsp; <a href="https://www.linkedin.com/in/nishkarshraj" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:nishkarshraj000@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
+
+<table>
+  <tr>
+    <td align="center">
+<img alt="" width="400" src="assets/githubactions.png" alt=""></img>
+</td>
+<td align="center">
+<img alt="" width="400" src="assets/PSM.jpeg" alt=""></img>
+</td>
+</td>
+<td align="center">
+<img alt="" width="400" src="assets/github-administration.png" alt=""></img>
+</td>
+</table>
