@@ -4,13 +4,13 @@
 
 <h3>:wave: Hey Fellow GitHubber</h3>
 
-- :office: I work at [StatusNeo](www.statusneo.com) as the Principal Evangelist & Consultant in the CloudNative D3 Space - Digital, Data, and DevSecOps.
+- :office: Principal Evangelist & Consultant at [StatusNeo](www.statusneo.com)
 
-- :star2: [GitHub Star](https://stars.github.com/) 2021 - 2023.
+- :star2: Recipient of the [GitHub Stars Award](https://stars.github.com/) 2021, 2022 and 2023.
 
-- :blue_book: I am passionate about DevOps, DevRel, DevEx, Open-Source, and Community Building.
+- :blue_book: Passionate about DevOps, DevRel, DevEx, Open-Source, and Community Building.
 
-- :video_game: I am an avid e-sports and mixed martial arts fan.
+- :video_game: I am an avid E-sports and mixed martial arts fan.
 
 ---
 
