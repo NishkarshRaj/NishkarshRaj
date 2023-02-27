@@ -55,13 +55,15 @@
 <table>
   <tr>
     <td align="center">
-<img alt="" width="400" src="assets/githubactions.png" alt=""></img>
-</td>
-<td align="center">
-<img alt="" width="400" src="assets/PSM.jpeg" alt=""></img>
+<img alt="" width="300" src="assets/githubactions.png" alt=""></img>
 </td>
 </td>
 <td align="center">
-<img alt="" width="400" src="assets/github-administration.png" alt=""></img>
+<img alt="" width="300" src="assets/github-administration.png" alt=""></img>
+</td>							     <td align="center">
+<img alt="" width="300" src="assets/github-administration.png" alt=""></img>
+</td>
+								     <td align="center">
+<img alt="" width="300" src="assets/PSM.jpeg" alt=""></img>
 </td>
 </table>
