@@ -61,7 +61,7 @@
 <td align="center">
 <img alt="" width="300" src="assets/github-administration.png" alt=""></img>
 </td>							     <td align="center">
-<img alt="" width="300" src="assets/github-administration.png" alt=""></img>
+<img alt="" width="300" src="assets/github-advanced-security.png" alt=""></img>
 </td>
 								     <td align="center">
 <img alt="" width="300" src="assets/PSM.jpeg" alt=""></img>
