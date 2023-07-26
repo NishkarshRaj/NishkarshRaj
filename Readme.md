@@ -1,4 +1,4 @@
-<img src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/assets/github-profile-cover.png">
+<img src="assets/img/github-profile-cover.png">
 
 <img align="right" alt="GitHub Gif" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -28,17 +28,17 @@
 
 <details> 
 	<summary>Profile Stats</summary>
-	<p align=center><img align="center" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/github-user-stats.svg" /></p>
+	<p align=center><img align="center" src="github-user-stats.svg" /></p>
 </details>
 
 <details> 
 	<summary>GitHub Contribution Stats - Yearly</summary>
-	<p align=center><img align="center" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/github-contrib-stats.svg" /></p>
+	<p align=center><img align="center" src="github-contrib-stats.svg" /></p>
 </details>
 
 <details> 
 	<summary>SkyLine 2022</summary>
-	<p align=center><img align="center" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/github-metrics.svg" /></p>
+	<p align=center><img align="center" src="github-metrics.svg" /></p>
 </details>
 
 ---
@@ -55,15 +55,15 @@
 <table>
   <tr>
     <td align="center">
-<img alt="" width="300" src="assets/githubactions.png" alt=""></img>
+<img alt="" width="300" src="assets/img/githubactions.png" alt=""></img>
 </td>
 </td>
 <td align="center">
-<img alt="" width="300" src="assets/github-administration.png" alt=""></img>
+<img alt="" width="300" src="assets/img/github-administration.png" alt=""></img>
 </td>							     <td align="center">
-<img alt="" width="300" src="assets/github-advanced-security.png" alt=""></img>
+<img alt="" width="300" src="assets/img/github-advanced-security.png" alt=""></img>
 </td>
 								     <td align="center">
-<img alt="" width="300" src="assets/PSM.jpeg" alt=""></img>
+<img alt="" width="300" src="assets/img/PSM.jpeg" alt=""></img>
 </td>
 </table>

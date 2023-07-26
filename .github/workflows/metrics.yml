@@ -7,30 +7,99 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
-        name: Skyline
+      - name: GitHub Skyline
+        uses: lowlighter/metrics@latest
         with:
           plugin_skyline: yes
           plugin_skyline_year: 2022    
           plugin_skyline_frames: 60       
           plugin_skyline_quality: 1
           plugin_skyline_compatibility: yes
+          filename: assets/metrics.plugin.skyline.svg
+          token: ${{ secrets.GH_NOICE }}
+      - name: GitHub City
+        uses: lowlighter/metrics@latest
+        with:
+          base: ""
+          plugin_skyline: yes
+          plugin_skyline_year: 2022
+          plugin_skyline_frames: 6
+          plugin_skyline_quality: 1
+          plugin_skyline_settings: |
+            {
+              "url": "https://honzaap.github.io/GithubCity?name=${login}&year=${year}",
+              "ready": "[...document.querySelectorAll('.display-info span')].map(span => span.innerText).includes('${login}')",
+              "wait": 4,
+              "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
+            }
+          filename: assets/metrics.plugin.skyline.city.svg
           token: ${{ secrets.GH_NOICE }}
       - name: Contribution Graph
         uses: lowlighter/metrics@latest
         with:
-          filename: github-contrib-stats.svg
-          token: ${{ secrets.GH_NOICE }}
           base: ""
           plugin_calendar: yes
           plugin_calendar_limit: 0
+          filename: assets/github-contrib-stats.svg
+          token: ${{ secrets.GH_NOICE }}
       - name: Profile Stats
         uses: lowlighter/metrics@latest
         with:
-          filename: github-user-stats.svg
-          token: ${{ secrets.GH_NOICE }}
           user: nishkarshraj
           base: header
           plugin_introduction: yes
+          filename: assets/github-user-stats.svg
+          token: ${{ secrets.GH_NOICE }}
+      - name: Recently Starred
+        uses: lowlighter/metrics@latest
+        with:
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 3
+          filename: assets/metrics.plugin.stars.svg
+          token: ${{ secrets.GH_NOICE }}
+      - name: Mildly interesting facts
+        uses: lowlighter/metrics@latest
+        with:
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          config_timezone: Asia/Kolkata
+          filename: assets/metrics.plugin.habits.facts.svg
+          token: ${{ secrets.GH_NOICE }}
+      - name: Recent activity charts
+        uses: lowlighter/metrics@latest
+        with:
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          config_timezone: Asia/Kolkata
+          filename: assets/metrics.plugin.habits.charts.svg
+          token: ${{ secrets.GH_NOICE }}
+      - name: Achievements Detailed Display
+        uses: lowlighter/metrics@latest
+        with:
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: sponsor, maintainer, octonaut
+          filename: assets/metrics.plugin.achievements.svg
+          token: ${{ secrets.GH_NOICE }}
+        test:
+          timeout: 1800000
+
+      - name: Achievements Compact display
+        uses: lowlighter/metrics@latest
+        with:
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+          filename: assets/metrics.plugin.achievements.compact.svg
+          token: ${{ secrets.GH_NOICE }}
+        test:
+          timeout: 1800000
 
 
