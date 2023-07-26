@@ -52,17 +52,25 @@ As a DevSecOps Evangelist, Nishkarsh exemplifies the essence of open-source valu
 
 <details> 
 	<summary>Profile Stats</summary>
-	<p align=center><img align="center" src="github-user-stats.svg" /></p>
+	<p align=center><img align="center" src="assets/github-user-stats.svg" /></p>
 </details>
 
 <details> 
 	<summary>GitHub Contribution Stats - Yearly</summary>
-	<p align=center><img align="center" src="github-contrib-stats.svg" /></p>
+	<p align=center><img align="center" src="assets/github-contrib-stats.svg" /></p>
 </details>
 
 <details> 
-	<summary>SkyLine 2022</summary>
-	<p align=center><img align="center" src="github-metrics.svg" /></p>
+	<summary>GitHub Skyline 2022</summary>
+	<p align=center><img align="center" src="assets/metrics.plugin.skyline.svg" /></p>
 </details>
 
+<details> 
+	<summary>GitHub City 2022</summary>
+	<p align=center><img align="center" src="assets/metrics.plugin.skyline.city.svg" /></p>
+</details>
 
+<details> 
+	<summary>Recently Starred Repositories</summary>
+	<p align=center><img align="center" src="assets/metrics.plugin.stars.svg" /></p>
+</details>
