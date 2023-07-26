@@ -86,8 +86,6 @@ jobs:
           plugin_achievements_only: sponsor, maintainer, octonaut
           filename: assets/metrics.plugin.achievements.svg
           token: ${{ secrets.GH_NOICE }}
-        test:
-          timeout: 1800000
 
       - name: Achievements Compact display
         uses: lowlighter/metrics@latest
@@ -99,7 +97,5 @@ jobs:
           plugin_achievements_threshold: X
           filename: assets/metrics.plugin.achievements.compact.svg
           token: ${{ secrets.GH_NOICE }}
-        test:
-          timeout: 1800000
 
 
