@@ -74,3 +74,8 @@ As a DevSecOps Evangelist, Nishkarsh exemplifies the essence of open-source valu
 	<summary>Recently Starred Repositories</summary>
 	<p align=center><img align="center" src="assets/metrics.plugin.stars.svg" /></p>
 </details>
+
+<details> 
+	<summary>GitHub Profile Trophies</summary>
+	<p align=center><img align="center" src="https://github-profile-trophy.vercel.app/?username=moepoi" /></p>
+</details>
