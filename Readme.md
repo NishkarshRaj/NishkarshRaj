@@ -1,6 +1,8 @@
 Hey there 👋
 
-Nishkarsh Raj, a dynamic force in the world of DevSecOps and Developer Experience Advocacy, stands at the forefront of innovation as the Principal Evangelist & Consultant for StatusNeo Inc. With an unparalleled commitment to the open-source ethos, Nishkarsh has garnered accolades such as the prestigious [GitHub Stars Award](https://stars.github.com/profiles/nishkarshraj/), an honor he has achieved for three consecutive years from 2021 to 2023.
+
+
+Nishkarsh Raj, a dynamic force in the world of DevSecOps and Developer Experience Advocacy, stands at the forefront of innovation as the Principal Evangelist & Consultant for StatusNeo Inc. With an unparalleled commitment to the open-source ethos, Nishkarsh has garnered accolades such as the prestigious [GitHub Stars Award](https://stars.github.com/), an honor he has achieved for three consecutive years from 2021 to 2023.
 
 Nishkarsh's deep-rooted passion for open-source practices and GitHub is evident through his unwavering dedication to the platform over the years. Through his remarkable contributions, he has become a beacon of inspiration for developers across the globe. Armed with a wealth of experience and expertise, he channels his enthusiasm into organizing meetups, delivering compelling talks at conferences, and actively encouraging others to embrace the transformative #100DaysofCode challenge.
 
