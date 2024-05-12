@@ -1,10 +1,18 @@
 Hey there 👋
 
-![IMG_3888](https://github.com/NishkarshRaj/NishkarshRaj/assets/35298207/48c38068-5f38-4e2d-9df7-dfce18f94d43)
+I'm Nish, a passionate Platform Engineering Architect with expertise in building secure and scalable enterprise solutions. I leverage DevSecOps principles, GitHub Enterprise, and Backstage.io to empower developers.
 
-Nishkarsh Raj, a dynamic force in the world of DevSecOps and Developer Experience Advocacy, stands at the forefront of innovation as the Principal Evangelist & Consultant for StatusNeo Inc. With an unparalleled commitment to the open-source ethos, Nishkarsh has garnered accolades such as the prestigious [GitHub Stars Award](https://stars.github.com/), an honor he has achieved for three consecutive years from 2021 to 2023.
+Currently, I lead the DevOps & Platform Center of Excellence (CoE) at StatusNeo. The CoE guides clients on their Cloud Native journey, helping them prioritize Developer Experience.
 
-Nishkarsh's deep-rooted passion for open-source practices and GitHub is evident through his unwavering dedication to the platform over the years. Through his remarkable contributions, he has become a beacon of inspiration for developers across the globe. Armed with a wealth of experience and expertise, he channels his enthusiasm into organizing meetups, delivering compelling talks at conferences, and actively encouraging others to embrace the transformative #100DaysofCode challenge.
+I'm a strong believer in a holistic DevOps approach that goes beyond tools and jargon. My focus is on CALMS:
+
+- Culture of Collaboration
+- Automation with Cutting-Edge Tech
+- Lean Principles
+- Measurement (DORA Metrics)
+- Sharing Knowledge
+
+At StatusNeo, we built an internal developer platform with Backstage.io, a single pane of glass for managing software catalogs, saving engineers valuable time.
 
 ---
 
