@@ -1,15 +1,15 @@
 Hey there 👋
 
-I'm Nish, a passionate Platform Engineering Architect with expertise in building secure and scalable enterprise solutions. I leverage DevSecOps principles, GitHub Enterprise, and Backstage.io to empower developers.
+I'm Nish, a passionate Platform Engineering Architect with expertise in building secure and scalable enterprise solutions. Key areas of my expertise include DevSecOps principles, GitHub Enterprise, and Developer Experience.
 
-Currently, I lead the DevOps & Platform Center of Excellence (CoE) at StatusNeo. The CoE guides clients on their Cloud Native journey, helping them prioritize Developer Experience.
+I am working as the DevOps & Platform Center of Excellence (CoE) Head at [StatusNeo](https://statusneo.com). The CoE guides our Fortune clients on their Cloud Native journey, helping them prioritize Developer Experience.
 
 I'm a strong believer in a holistic DevOps approach that goes beyond tools and jargon. My focus is on CALMS:
 
-- Culture of Collaboration
-- Automation with Cutting-Edge Tech
+- Collaboration
+- Automation
 - Lean Principles
-- Measurement (DORA Metrics)
+- Measurement
 - Sharing Knowledge
 
 At StatusNeo, we built an internal developer platform with Backstage.io, a single pane of glass for managing software catalogs, saving engineers valuable time.
