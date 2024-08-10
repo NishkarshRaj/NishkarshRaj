@@ -57,12 +57,12 @@ At StatusNeo, we built an internal developer platform with Backstage.io, a singl
 </details>
 
 <details> 
-	<summary>GitHub Skyline 2022</summary>
+	<summary>GitHub Skyline 2023</summary>
 	<p align=center><img align="center" src="assets/metrics.plugin.skyline.svg" /></p>
 </details>
 
 <details> 
-	<summary>GitHub City 2022</summary>
+	<summary>GitHub City 2023</summary>
 	<p align=center><img align="center" src="assets/metrics.plugin.skyline.city.svg" /></p>
 </details>
 
