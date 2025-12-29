@@ -1,18 +1,6 @@
 Hey there 👋
 
-I'm Nish, a passionate Platform Engineering Architect with expertise in building secure and scalable enterprise solutions. Key areas of my expertise include DevSecOps principles, GitHub Enterprise, and Developer Experience.
-
-I am working as the DevOps & Platform Center of Excellence (CoE) Head at [StatusNeo](https://statusneo.com). The CoE guides our Fortune clients on their Cloud Native journey, helping them prioritize Developer Experience.
-
-I'm a strong believer in a holistic DevOps approach that goes beyond tools and jargon. My focus is on CALMS:
-
-- Collaboration
-- Automation
-- Lean Principles
-- Measurement
-- Sharing Knowledge
-
-At StatusNeo, we built an internal developer platform with Backstage.io, a single pane of glass for managing software catalogs, saving engineers valuable time.
+I'm Nish, a Platform Engineer with 5+ years building cloud infrastructure and developer platforms at Fortune 500 companies. Led teams of 6-8 engineers delivering $5M+ in AWS cost savings and 96% P0 incident reduction. Built internal developer platforms serving 300+ service templates and migrated 200+ developers to GitHub Enterprise. Three-time GitHub Star (2021-2023).
 
 ---
 
@@ -36,16 +24,6 @@ At StatusNeo, we built an internal developer platform with Backstage.io, a singl
 
 <h3 align=center> I :heart: GitHub :octocat: </h3>
 
-<table>
-  <tr>
-    <td align="center">
-<img alt="" width="400" src="https://github-readme-stats.vercel.app/api?username=nishkarshraj&count_private=true&theme=dark" alt=""></img>
-</td>
-<td align="center">
-<img alt="" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=nishkarshraj&theme=dark"" alt=""></img>
-</td>
-</table>
-
 <details> 
 	<summary>Profile Stats</summary>
 	<p align=center><img align="center" src="assets/github-user-stats.svg" /></p>
@@ -57,12 +35,12 @@ At StatusNeo, we built an internal developer platform with Backstage.io, a singl
 </details>
 
 <details> 
-	<summary>GitHub Skyline 2023</summary>
+	<summary>GitHub Skyline 2025</summary>
 	<p align=center><img align="center" src="assets/metrics.plugin.skyline.svg" /></p>
 </details>
 
 <details> 
-	<summary>GitHub City 2023</summary>
+	<summary>GitHub City 2025</summary>
 	<p align=center><img align="center" src="assets/metrics.plugin.skyline.city.svg" /></p>
 </details>
 
@@ -71,7 +49,3 @@ At StatusNeo, we built an internal developer platform with Backstage.io, a singl
 	<p align=center><img align="center" src="assets/metrics.plugin.stars.svg" /></p>
 </details>
 
-<details> 
-	<summary>GitHub Profile Trophies</summary>
-	<p align=center><img align="center" src="https://github-profile-trophy.vercel.app/?username=moepoi" /></p>
-</details>
