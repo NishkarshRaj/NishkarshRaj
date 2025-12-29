@@ -11,7 +11,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           plugin_skyline: yes
-          plugin_skyline_year: 2023   
+          plugin_skyline_year: 2025 
           plugin_skyline_frames: 60       
           plugin_skyline_quality: 1
           plugin_skyline_compatibility: yes
@@ -22,7 +22,7 @@ jobs:
         with:
           base: ""
           plugin_skyline: yes
-          plugin_skyline_year: 2023
+          plugin_skyline_year: 2025
           plugin_skyline_frames: 6
           plugin_skyline_quality: 1
           plugin_skyline_settings: |
