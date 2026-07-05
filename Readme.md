@@ -57,8 +57,6 @@ adopt GitHub Enterprise across India.
 
 ---
 
----
-
 ## 📈 GitHub Activity
 
 <details>
