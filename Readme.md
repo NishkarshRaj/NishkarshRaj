@@ -31,9 +31,10 @@ partnerships, and helping companies here adopt GitHub properly.
 ## Backstage
 
 Backstage is Spotify's developer portal, a CNCF incubating project used by more than
-20 million developers. I have been contributing to it for years, and code I wrote runs
-inside Netflix, American Airlines and Expedia Group. That one still feels slightly
-unreal.
+20 million developers. I have been contributing to it for years. It is adopted by
+Mercedes-Benz, Netflix, Vodafone, DAZN, American Airlines, Expedia Group and Marks &
+Spencer, among many others, so my code has ended up running in places I will never
+see. That one still feels slightly unreal.
 
 ## Everything else
 
