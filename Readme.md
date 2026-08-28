@@ -1,11 +1,6 @@
 <h1 align="center">Nishkarsh Raj</h1>
 
 <p align="center">
-  <b>Practice Leader &mdash; FinAIOps, Platform Engineering &amp; Observability</b><br />
-  StatusNeo &middot; New Delhi, India
-</p>
-
-<p align="center">
   <a href="https://nishkarshraj.com">nishkarshraj.com</a> &middot;
   <a href="https://linkedin.com/in/nishkarshraj">LinkedIn</a> &middot;
   <a href="mailto:nishkarshraj000@gmail.com">Email</a>
@@ -13,30 +8,38 @@
 
 ---
 
-I lead a practice spanning FinAIOps, platform engineering, and observability — from
-India HQ, with a global remit. Six years at one company, Day 0 founding engineer to
-practice lead, building the platforms Fortune 500 engineering organisations run on.
+Hi. I build the platforms that other engineers build on.
 
-Cost, reliability, and developer experience are the same problem seen from three
-angles. I run them as one loop.
+I lead the FinAIOps, platform engineering and observability practice at StatusNeo,
+which in practice means Kubernetes, GitOps, developer portals, and working out what
+all of it ought to cost. My favourite kind of win is a quiet one: a team that used to
+wait weeks for an environment gets it in minutes, and stops having to think about me
+at all.
 
-**The work, the numbers, the talks and the writing live at
-[nishkarshraj.com](https://nishkarshraj.com).** This page is the GitHub side of it.
+## How I got here
 
-## On GitHub
+I found open source in college, on what happened to be India's first DevOps
+specialisation, and never really stopped. Ten thousand or so contributions later, the
+part I am proudest of is not any of them. It is the thousand and more students I sat
+with through their first pull request.
 
-GitHub Star in **2021, 2022 and 2023** — one of a hundred developers recognised each
-year out of a community of 100M+, and the second from India. The award was for
-community work rather than commit count: teaching open source to 1,000+ students
-across India, GitHub × Linux Foundation university partnerships, and helping
-enterprises adopt GitHub at scale.
+GitHub made me a Star in 2021, 2022 and 2023. Around a hundred developers a year are
+chosen from a community of a hundred million, and I was the second from India. It was
+never about commit count. It was for the teaching, the Linux Foundation university
+partnerships, and helping companies here adopt GitHub properly.
 
-I contribute where the tooling I depend on lives. Backstage is the one that stuck — an
-early-stage developer platform when I started sending patches, now used by 4M+
-developers.
+## Backstage
 
-Certified across GitHub Actions, Administration, and Advanced Security —
-[verification and the rest of the shelf](https://nishkarshraj.com/awards).
+Backstage is Spotify's developer portal, a CNCF incubating project used by more than
+20 million developers. I have been contributing to it for years, and code I wrote runs
+inside Netflix, American Airlines and Expedia Group. That one still feels slightly
+unreal.
+
+## Everything else
+
+The projects, the talks, the writing and the numbers behind them all live at
+[nishkarshraj.com](https://nishkarshraj.com). This page is just the GitHub half of the
+story.
 
 <details>
 <summary>GitHub activity</summary>
